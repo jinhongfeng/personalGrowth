@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="个人成长助手">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="32" x2="216" y2="224" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5B6ABF"/>
+      <stop offset="1" stop-color="#7B8AE0"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="92" y1="72" x2="168" y2="176" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E8EAF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#bg)"/>
+  <circle cx="128" cy="84" r="26" fill="#FFFFFF"/>
+  <path
+    d="M66 154c18-31 39-47 62-47s44 16 62 47c5 9 2 21-7 26-16 9-34 14-55 14s-39-5-55-14c-9-5-12-17-7-26Z"
+    fill="url(#leaf)"
+  />
+  <path
+    d="M87 116c-13-13-20-30-21-50 20 1 37 8 50 21 9 9 15 20 18 33-13-3-38 5-47-4Z"
+    fill="#DDE3FF"
+    opacity=".82"
+  />
+  <path
+    d="M169 116c13-13 20-30 21-50-20 1-37 8-50 21-9 9-15 20-18 33 13-3 38 5 47-4Z"
+    fill="#F4F6FF"
+    opacity=".9"
+  />
+  <path d="M128 106v57" stroke="#5B6ABF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M104 140c15 13 33 13 48 0" stroke="#5B6ABF" stroke-width="10" stroke-linecap="round" fill="none"/>
+</svg>

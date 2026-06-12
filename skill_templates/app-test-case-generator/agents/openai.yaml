@@ -1,0 +1,3 @@
+display_name: App Test Case Generator
+short_description: Generate standardized app test cases.
+default_prompt: Use this skill to generate standardized test cases for a selected app from filled feature specifications, templates, and QA rules.

@@ -1,0 +1,22 @@
+# 依赖包
+node_modules/
+
+# 编译输出目录
+dist/
+dist-electron/
+release/
+
+# 日志文件
+*.log
+dev-server.err.log
+dev-server.out.log
+vite-ai-dev*.log
+
+# 工具缓存目录
+.claude/
+.electron-builder-cache/
+.impeccable/
+
+# 安卓构建产物
+android/build/
+android/app/build/
